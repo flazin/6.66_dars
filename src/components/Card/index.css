@@ -1,0 +1,17 @@
+.card-wrapper {
+  border: 1px solid gray;
+  padding: 55px;
+  width: 30%;
+}
+
+.card-wrapper img {
+  width: 300px;
+  height: 200px;
+}
+
+.button {
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 0;
+}
